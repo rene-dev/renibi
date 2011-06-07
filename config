@@ -1,0 +1,3 @@
+#define DEBUG 3
+#define CAM1 "/dev/video1"
+#define CAM2 "/dev/video2"
